@@ -10,7 +10,7 @@ A sheet which you can use anywhere (eg, on another modal .sheet) with a few cust
 
 In Xcode:
 * File ⭢ Swift Packages ⭢ Add Package Dependency...
-* Use the URL https://github.com/franklynw/HalfASheet
+* Use the URL https://github.com/emkukuh/HalfASheet/
 
 
 ## Example
